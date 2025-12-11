@@ -1,5 +1,21 @@
 # 💫 About Me:
-Halo! Saya seorang developer full-stack dengan minat besar pada pengembangan Front-End, Back-End, dan Data Engineering.<br>Saya suka membangun aplikasi yang tidak hanya fungsional, tetapi juga memiliki pengalaman pengguna yang baik serta struktur data yang rapi dan efisien.<br><br>💻 Front-End<br><br>Mampu membangun antarmuka modern, responsif, dan user-friendly.<br><br>Terbiasa menggunakan HTML, CSS, JavaScript, serta framework seperti Vue.js / React dan Tailwind CSS.<br><br>Fokus pada UX/UI agar aplikasi mudah digunakan dan menarik secara visual.<br><br>⚙️ Back-End<br><br>Berpengalaman dalam merancang RESTful API dan mengelola database.<br><br>Menguasai PHP, Node.js, MySQL, dan MongoDB.<br><br>Terbiasa dengan arsitektur server, autentikasi, serta integrasi dengan layanan pihak ketiga.<br><br>📊 Data Engineering<br><br>Memahami proses ETL (Extract, Transform, Load) untuk mengolah data dari berbagai sumber.<br><br>Berpengalaman dengan SQL, Python (pandas, NumPy), dan pipeline data.<br><br>Fokus pada penyimpanan data yang efisien dan siap digunakan untuk analisis maupun machine learning.
+Saya adalah seorang profesional yang bergerak di bidang Digital Forensic, Open-Source Intelligence (OSINT), serta pengembangan dan desain web. Berpengalaman dalam menganalisis bukti digital, memetakan informasi dari sumber terbuka, dan mengungkap jejak aktivitas siber untuk kebutuhan investigasi dan keamanan.
+
+🔍 Digital Forensic
+
+Menguasai analisis bukti digital untuk mengungkap jejak aktivitas pada perangkat, jaringan, dan sistem. Berfokus pada investigasi, pemulihan data, dan identifikasi insiden keamanan dengan metode forensik yang terstruktur dan akurat.
+
+🌐 Open-Source Intelligence (OSINT)
+
+Berpengalaman dalam mengumpulkan, memetakan, dan menganalisis informasi dari sumber terbuka untuk kebutuhan investigasi, keamanan siber, serta pemantauan jejak digital. Mampu mengolah data publik menjadi insight yang bernilai.
+
+🎨 Web Designer
+
+Membuat desain antarmuka web yang modern, responsif, dan user-friendly. Mengutamakan estetika visual, hierarki informasi, dan pengalaman pengguna (UI/UX) yang menarik dan profesional.
+
+💻 Full-Stack Web Developer
+
+Membangun aplikasi web end-to-end mulai dari frontend hingga backend. Menguasai struktur database, API, server, dan integrasi sistem sehingga menghasilkan aplikasi yang stabil, cepat, dan scalable.
 
 
 ## 🌐 Socials:
